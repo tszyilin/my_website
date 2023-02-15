@@ -8,7 +8,7 @@ tags:
 ## The amyloid-beta toxicity by chronic silver nanoparticles exposure and its underlying mechanisms in *Caenorhabditis elegans*
 
 ## Graphic Abstract
-![](/assets/images/master_thesis_2.png)
+![](/assets/images/masterthesis.jpg)
 
 ## Keywords 
 AgNPs; Alzheimer's disease; *Caenorhabditis elegans*; chronic exposure; mitochondria; oxidative stress
