@@ -15,3 +15,8 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
 end
+
+gem "jekyll"
+gem "minimal-mistakes-jekyll"
+gem "kramdown-parser-gfm"
+gem "webrick"
